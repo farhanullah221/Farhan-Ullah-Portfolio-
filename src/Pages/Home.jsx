@@ -3,7 +3,7 @@ import { StarBackground } from "../Components/StarBackground";
 import { Navbar } from "../Components/Navbar";
 import { HeroSection } from "../Components/HeroSection";
 import { AboutMe } from "../Components/AboutMe";
-import { SkillsSection } from "../Components/skillsSection";
+import { SkillsSection } from "../Components/SkillsSection";
 import { ProjectSection } from "../Components/ProjectSection";
 import { ContactSection } from "../Components/ContactSection";
 import { Footer } from "../Components/Footer";
